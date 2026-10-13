@@ -21,7 +21,7 @@ Plus **Gawd**, a film-assembly agent for HOUSE SIX.
 ## How it got here
 
 - **Jan 2026:** Left MEP engineering and started building agent systems on OpenClaw: a perps bot, agent personas, and the first multi-model setups.
-- **Feb:** Created Jordan Bentayga and the Gork persona, and stood up Telegram bots, cron jobs, and the first GitHub repos.
+- **Feb:** Created Jordan Bentayga and stood up Telegram bots, cron jobs, and the first GitHub repos.
 - **Mar 2026:** Jordan's first autonomous buy was 0.05 SOL. It got stopped out by a liquidity drain, and Jordan wrote his own autopsy.
 - **Apr:** A forensic audit of the sniper covered 134 autopsies and 171 trades. It found five pipelines failing silently and stops set at -20% that averaged -30.4% in practice. The sniper was rebuilt as v9.2.
 - **Jul:** Perps execution took a five-layer fix to land its first on-chain open. A fake stop-loss close led to the rule that nothing auto-closes except the liquidation guard. Failed sells were traced to a confirm timeout and fixed with a pending tracker and a stuck-bag watchdog.
